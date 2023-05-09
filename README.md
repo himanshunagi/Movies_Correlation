@@ -1,4 +1,4 @@
-# Python
+# Movie's Correlation
 
 In this project, I worked with a movie dataset using Python. I started by cleaning the data and then sorted it to identify the highest 
 grossing movie of all time. To gain more insights into the data, I used the Pearson correlation coefficient to examine relationships 
